@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Ola mundo git
+=======
+
+Olá mundo!
+Testendo alteração no arquivo
+
+>>>>>>> 3ef58fae6206641a8fda0754293b2cf67a3cad25
